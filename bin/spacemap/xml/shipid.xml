@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ships>
+
+	<ship name="Phoenix"
+		resKey="ship1"/>
+		
+	<ship name="Yamato" 
+		resKey="ship2"/>
+		
+	<ship name="Leonov" 
+		resKey="ship3"/>
+		
+	<ship name="Defcom" 
+		resKey="ship4"/>
+		
+	<ship name="Liberator" 	
+		resKey="ship5"/>
+		
+	<ship name="Piranha" 
+		resKey="ship6"/>
+		
+	<ship name="Nostromo" 
+		resKey="ship7"/>
+		
+	<ship name="Vengeance" 
+		resKey="ship8"/>
+	
+	<ship name="BigBoy"
+		resKey="ship9"/>
+		
+	<ship name="Goliath"
+		resKey="ship10"/>
+		
+	<ship name="Demaner"
+		resKey="ship11"/>
+		
+	<ship name="PET lvl 1-3"
+		resKey="ship12"/>
+		
+	<ship name="PET lvl 4-6"
+		resKey="ship13"/>
+		
+	<ship name="PET lvl 7-9"
+		resKey="ship14"/>
+	
+	<ship name="PET lvl 10"
+		resKey="ship15"/>
+	
+	<ship name="Vengeance Adept"
+		resKey="ship16"/>
+	
+	<ship name="Vengeance Corsair"
+		resKey="ship17"/>
+		
+	<ship name="Vengeance Lightning"
+		resKey="ship18"/>
+		
+	<ship name="Goliath Jade"
+		resKey="ship19"/>
+		
+	<ship name="Ufo"
+		resKey="ship20"/>
+		
+	<ship name="Ufonit"
+		resKey="ship21"/>
+		
+	<ship name="PET lvl 11"
+		resKey="ship22"/>
+		
+	<ship name="Boss Streuner"
+		resKey="ship23"/>
+		
+	<ship name="Boss Lordakia"
+		resKey="ship24"/>
+		
+	<ship name="Boss Saimon"
+		resKey="ship25"/>
+		
+	<ship name="Boss Devolarium"
+		resKey="ship26"/>
+		
+	<ship name="Boss Sibelonit"
+		resKey="ship27"/>
+		
+	<ship name="Boss Lordakium"
+		resKey="ship28"/>
+		
+	<ship name="Boss Kristallin"
+		resKey="ship29"/>
+		
+	<ship name="Undefined"
+		resKey="ship30"/>
+		
+	<ship name="Boss Mordon"
+		resKey="ship31"/>
+		
+	<ship name="Santa"
+		resKey="ship32"/>
+		
+	<ship name="Super Ice Metroid"
+		resKey="ship33"/>
+		
+	<ship name="Boss StreuneR"
+		resKey="ship34"/>
+		
+	<ship name="Boss Kristallon"
+		resKey="ship35"/>
+		
+	<ship name="Undefined"
+		resKey="ship36"/>
+		
+	<ship name="Undefined"
+		resKey="ship37"/>
+		
+	<ship name="Undefined"
+		resKey="ship38"/>
+		
+	<ship name="Undefined"
+		resKey="ship39"/>
+		
+	<ship name="Undefined"
+		resKey="ship40"/>
+		
+	<ship name="Undefined"
+		resKey="ship41"/>
+		
+	<ship name="Uber Kristallin"
+		resKey="ship42"/>
+
+	<ship name="Undefined"
+		resKey="ship43"/>
+		
+	<ship name="Undefined"
+		resKey="ship44"/>
+		
+	<ship name="Uber Kristallon"
+		resKey="ship45"/>
+		
+	<ship name="Boss Sibelon"
+		resKey="ship46"/>
+		
+	<ship name="Undefined"
+		resKey="ship47"/>
+		
+	<ship name="Carnival Santa"
+		resKey="ship48"/>
+		
+	<ship name="Aegis"
+		resKey="ship49"/>
+		
+	<ship name="Red BigBoy"
+		resKey="ship50"/>
+		
+	<ship name="Undefined"
+		resKey="ship51"/>
+		
+	<ship name="Goliath Amber"
+		resKey="ship52"/>
+		
+	<ship name="Goliath Crismon"
+		resKey="ship53"/>
+		
+	<ship name="Goliath Sapphire"
+		resKey="ship54"/>
+		
+	<ship name="Goliath Green"
+		resKey="ship55"/>
+		
+	<ship name="Goliath Enforcer"
+		resKey="ship56"/>
+		
+	<ship name="Goliath USA"
+		resKey="ship57"/>
+		
+	<ship name="Vengeance Revenge"
+		resKey="ship58"/>
+		
+	<ship name="Goliath Bastion"
+		resKey="ship59"/>
+		
+	<ship name="Vengeance Avenger"
+		resKey="ship60"/>
+		
+	<ship name="Goliath Veteran"
+		resKey="ship61"/>
+		
+	<ship name="Goliath Exalted"
+		resKey="ship62"/>
+		
+	<ship name="Goliath Solace"
+		resKey="ship63"/>
+		
+	<ship name="Goliath Diminsher"
+		resKey="ship64"/>
+		
+	<ship name="Goliath Spectrum"
+		resKey="ship65"/>
+		
+	<ship name="Goliath Sentinel"
+		resKey="ship66"/>
+		
+	<ship name="Goliath Venom"
+		resKey="ship67"/>
+		
+	<ship name="Goliath Ignite"
+		resKey="ship68"/>
+		
+	<ship name="Citadel"
+		resKey="ship69"/>
+		
+	<ship name="Spearhead"
+		resKey="ship70"/>
+		
+	<ship name="Lordakia"
+		resKey="ship71"/>
+		
+	<ship name="Devolarium"
+		resKey="ship72"/>
+		
+	<ship name="Mordon"
+		resKey="ship73"/>
+		
+	<ship name="Sibelon"
+		resKey="ship74"/>
+		
+	<ship name="Saimon"
+		resKey="ship75"/>
+		
+	<ship name="Sibelonit"
+		resKey="ship76"/>
+		
+	<ship name="Lordakium"
+		resKey="ship77"/>
+		
+	<ship name="Kristallin"
+		resKey="ship78"/>
+		
+	<ship name="Kristallon"
+		resKey="ship79"/>
+		
+	<ship name="Cubikon"
+		resKey="ship80"/>
+		
+	<ship name="Protegit"
+		resKey="ship81"/>
+		
+	<ship name="Kukurbium"
+		resKey="ship82"/>
+		
+	<ship name="Boss kukurbium"
+		resKey="ship83"/>
+		
+	<ship name="Streuner"
+		resKey="ship84"/>
+		
+	<ship name="StreuneR"
+		resKey="ship85"/>
+		
+	<ship name="Goliath Kick"
+		resKey="ship86"/>
+		
+	<ship name="Goliath Refree"
+		resKey="ship87"/>
+		
+	<ship name="Goliath Goal"
+		resKey="ship88"/>
+		
+	<ship name="Refree Bot"
+		resKey="ship89"/>
+		
+	<ship name="Century Falcon"
+		resKey="ship90"/>
+		
+	<ship name="Falcon Titan"
+		resKey="ship91"/>
+		
+	<ship name="Falcon Heavy Red"
+		resKey="ship92"/>
+		
+	<ship name="Falcon Small Green"
+		resKey="ship93"/>
+		
+	<ship name="Falcon Medium Blue"
+		resKey="ship94"/>
+		
+	<ship name="Eagle Heavy Red"
+		resKey="ship95"/>
+		
+	<ship name="Eagle Small Green"
+		resKey="ship96"/>
+		
+	<ship name="Eagle Medium Blue"
+		resKey="ship97"/>
+		
+	<ship name="Police Ship"
+		resKey="ship98"/>
+		
+	<ship name="Soccer"
+		resKey="ship99"/>
+		
+	<ship name="Infernal"
+		resKey="ship100"/>
+		
+	<ship name="Ice Metroid"
+		resKey="ship101"/>
+		
+	<ship name="Melter"
+		resKey="ship102"/>
+		
+	<ship name="Icy"
+		resKey="ship103"/>
+		
+	<ship name="Binary Bot"
+		resKey="ship104"/>
+		
+	<ship name="Devourer"
+		resKey="ship105"/>
+		
+	<ship name="Lordakia (football)"
+		resKey="ship106"/>
+		
+	<ship name="Solar Storm"
+		resKey="ship107"/>
+		
+	<!-- LOOOOL -->
+	
+	<ship name="Havock" 
+		resKey="ship108"/>
+		
+	<ship name="Saturn"
+		resKey="ship109"/>
+		
+	<ship name="Centaur"
+		resKey="ship110"/>
+		
+	<ship name="Interceptor"
+		resKey="ship111"/>
+		
+	<ship name="Barracuda"
+		resKey="ship112"/>
+		
+	<ship name="Saboteur"
+		resKey="ship113"/>
+		
+	<ship name="Annihilator"
+		resKey="ship114"/>
+		
+	<ship name="Battleray"
+		resKey="ship115"/>
+		
+	<ship name="Hitac"
+		resKey="ship116"/>
+		
+	<ship name="Minion"
+		resKey="ship117"/>
+		
+	<ship name="Boss Twist"
+		resKey="ship118"/>
+		
+	<ship name="Twist"
+		resKey="ship119"/>
+		
+	<!-- LOOOL -->
+	
+	<ship name="Turkey"
+		resKey="ship120"/>
+		
+	<ship name="Snow man"
+		resKey="ship121"/>
+		
+	<ship name="Kristallon (Hades)"
+		resKey="ship122"/>
+		
+	<ship name="Lordakium (Hades)"
+		resKey="ship123"/>
+		
+	<ship name="Sibelon (Hades)"
+		resKey="ship124"/>
+		
+	<ship name="Rocket car"
+		resKey="ship125"/>
+		
+	<ship name="Spaceball Summer"
+		resKey="ship442"/>
+		
+	<ship name="Spaceball Winter"
+		resKey="ship443"/>
+		
+	<ship name="Spaceball Football"
+		resKey="ship444"/>
+		
+</ships>

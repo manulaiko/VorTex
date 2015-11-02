@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--=============================================================================================================
+  || Okay let me explain this file a bit                                                                       ||
+  ||                                                                                                           ||
+  || Here will be the paths for the swf files, this is how it works:                                           ||
+  ||                                                                                                           ||
+  || 1.= The attribute "name" is the name of the file that we will be looking for.                             ||
+  ||     For example: I want to change laser0.swf.                                                             ||
+  ||     this is the result: <resource name="laser0.swf" />                                                    ||
+  ||                                                                                                           ||
+  || 2.= The attribute "path" is the path where is located the file.                                           ||
+  ||     For example: I want to change the path from laser0.swf.                                               ||
+  ||     this is the result:                                                                                   ||
+  ||     <resource name="laser0.swf" path="spacemap/graphics/lasers/laser0.swf" />                             ||
+  ||                                                                                                           ||
+  || 3.= The attribute "comment" isn't important, is just to comment something, like this:                     ||
+  ||    <resource name="laser0.swf" path="spacemap/graphics/lasers/laser0.swf" comment="Old red thin laser" /> ||
+  ||                                                                                                           ||
+  || 4.= Nothing else, now you can add/delted/modify resources ;)                                              ||
+  ||                                                                                                           ||
+  || See you! Manulaiko ;)                                                                                     ||
+  ===============================================================================================================
+-->
+<spacemap>
+  <!-- start music -->
+  <res name="track0.swf" path="spacemap/audio/music/2009 theme.swf" comment="Music theme" />
+  <res name="trackBattlemap" path="spacemap/audio/music/2009 theme.swf" comment="Music theme" />
+  <res name="trackCombat" path="spacemap/audio/music/2009 theme.swf" comment="Music theme" />
+  <res name="trackEIC" path="spacemap/audio/music/2009 theme.swf" comment="EIC Music theme" />
+  <res name="trackMMO" path="spacemap/audio/music/2009 theme.swf" comment="MMO Music theme" />
+  <res name="trackPirate" path="spacemap/audio/music/2009 theme.swf" comment="Pirate Music theme" />
+  <res name="trackVRU" path="spacemap/audio/music/2009 theme.swf" comment="VRU Music theme" />
+  <!-- end music -->
+  <!-- start sounds -->
+  
+  <!-- end sounds -->
+  
+  <!-- start assets -->
+  <!--res name="drones.swf" path="spacemap/graphics/assets/drones.swf" comment="Drones" /-->
+  <!-- end assets -->
+  <!-- start backgroundmasks -->
+  
+  <!-- end backgroundmasks -->
+  <!-- start backgrounds -->
+  <res name="background1.swf" path="spacemap/graphics/backgrounds/background1.swf" comment="1-1" />
+  <res name="background2.swf" path="spacemap/graphics/backgrounds/background2.swf" comment="1-2" />
+  <res name="background3.swf" path="spacemap/graphics/backgrounds/background3.swf" comment="1-3" />
+  <res name="background4.swf" path="spacemap/graphics/backgrounds/background4.swf" comment="1-4" />
+  <res name="background5.swf" path="spacemap/graphics/backgrounds/background5.swf" comment="2-1" />
+  <res name="background6.swf" path="spacemap/graphics/backgrounds/background6.swf" comment="2-2" />
+  <res name="background7.swf" path="spacemap/graphics/backgrounds/background7.swf" comment="2-3" />
+  <res name="background8.swf" path="spacemap/graphics/backgrounds/background8.swf" comment="2-4" />
+  <res name="background9.swf" path="spacemap/graphics/backgrounds/background9.swf" comment="3-1" />
+  <res name="background10.swf" path="spacemap/graphics/backgrounds/background10.swf" comment="3-2" />
+  <res name="background11.swf" path="spacemap/graphics/backgrounds/background11.swf" comment="3-3" />
+  <res name="background12.swf" path="spacemap/graphics/backgrounds/background12.swf" comment="3-4" />
+  <res name="background13.swf" path="spacemap/graphics/backgrounds/background13.swf" comment="4-1" />
+  <res name="background14.swf" path="spacemap/graphics/backgrounds/background14.swf" comment="4-2" />
+  <res name="background15.swf" path="spacemap/graphics/backgrounds/background15.swf" comment="4-3" />
+  <res name="background16.swf" path="spacemap/graphics/backgrounds/background16.swf" comment="4-4" />
+  <res name="background17.swf" path="spacemap/graphics/backgrounds/background17.swf" comment="1-5" />
+  <res name="background18.swf" path="spacemap/graphics/backgrounds/background18.swf" comment="1-6" />
+  <res name="background19.swf" path="spacemap/graphics/backgrounds/background19.swf" comment="1-7" />
+  <res name="background20.swf" path="spacemap/graphics/backgrounds/background20.swf" comment="1-8" />
+  <res name="background21.swf" path="spacemap/graphics/backgrounds/background21.swf" comment="2-5" />
+  <res name="background22.swf" path="spacemap/graphics/backgrounds/background22.swf" comment="2-6" />
+  <res name="background23.swf" path="spacemap/graphics/backgrounds/background23.swf" comment="2-7" />
+  <res name="background24.swf" path="spacemap/graphics/backgrounds/background24.swf" comment="2-8" />
+  <res name="background25.swf" path="spacemap/graphics/backgrounds/background25.swf" comment="3-5" />
+  <res name="background26.swf" path="spacemap/graphics/backgrounds/background26.swf" comment="3-6" />
+  <res name="background27.swf" path="spacemap/graphics/backgrounds/background27.swf" comment="3-7" />
+  <res name="background28.swf" path="spacemap/graphics/backgrounds/background28.swf" comment="3-8" />
+  <res name="background29.swf" path="spacemap/graphics/backgrounds/background29.swf" comment="4-5" />
+  
+  <res name="background42.swf" path="spacemap/graphics/backgrounds/background42.swf" comment="Jackpot / Cubi yard" />
+  
+  <res name="background51.swf" path="spacemap/graphics/backgrounds/background51.swf" comment="GG Alpha" />
+  <res name="background52.swf" path="spacemap/graphics/backgrounds/background52.swf" comment="GG Beta" />
+  <res name="background53.swf" path="spacemap/graphics/backgrounds/background53.swf" comment="GG Gamma" />
+  <res name="background54.swf" path="spacemap/graphics/backgrounds/background54.swf" comment="GG Lambda" />
+  <res name="background55.swf" path="spacemap/graphics/backgrounds/background55.swf" comment="GG Delta" />
+  <res name="background57.swf" path="spacemap/graphics/backgrounds/background57.swf" comment="GG Zeta" />
+  
+  <res name="background61.swf" path="spacemap/graphics/backgrounds/background61.swf" comment="GG Invasion" />
+
+  <res name="background81.swf" path="spacemap/graphics/backgrounds/background81.swf" comment="TDM 1" />
+  <res name="background82.swf" path="spacemap/graphics/backgrounds/background82.swf" comment="TDM 2" />
+  
+  <res name="background91.swf" path="spacemap/graphics/backgrounds/background91.swf" comment="5-1" />
+  <res name="background92.swf" path="spacemap/graphics/backgrounds/background92.swf" comment="5-2" />
+  <res name="background93.swf" path="spacemap/graphics/backgrounds/background93.swf" comment="5-3" />
+  
+  <res name="background255.swf" path="spacemap/graphics/backgrounds/background255.swf" comment="LoW" />
+
+  <res name="layer1.swf" path="spacemap/graphics/backgrounds/layer1.swf" comment="Meteors" />
+  <res name="layer2.swf" path="spacemap/graphics/backgrounds/layer2.swf" comment="More meteors" />
+
+  <res name="stars1-50x50.swf" path="spacemap/graphics/backgrounds/stars1-50x50.swf" comment="Stars" />
+  <res name="stars2-50x50.swf" path="spacemap/graphics/backgrounds/stars2-50x50.swf" comment="More stars" />
+
+  <!-- end backgrounds -->
+  <!-- start bannerads -->
+  
+  <!-- end bannerads -->
+  <!-- start collectables -->
+  <!-- end collectables -->
+  <!-- start comchannel -->
+  
+  <!-- end comchannel -->
+  <!-- start effects -->
+  
+  <!-- end effects -->
+  <!-- start engines -->
+  <res name="engine0.swf" path="spacemap/graphics/engines/engine0.swf" comment="Ship engine fire" />
+  <!-- end engines -->
+  <!-- start expansions -->
+  
+  <!-- end expansions -->
+  <!-- start helpmovies -->
+  
+  <!-- end helpmovies -->
+  <!-- start lasers -->
+  
+  <!-- end lasers -->
+  <res name="crystal_white.swf" path="spacemap/graphics/lasers/crystal1.swf" comment="Kistallin shoot" />
+  <res name="crystal_blue.swf" path="spacemap/graphics/lasers/crystal2.swf" comment="Kistallon shoot" />
+  <res name="crystal_red.swf" path="spacemap/graphics/lasers/crystal1.swf" comment="Kistallon shoot" />
+  <res name="devolariumShot.swf" path="spacemap/graphics/lasers/devolariumShot.swf" comment="Devolarium shoot" />
+  <res name="elaCloud1.swf" path="spacemap/graphics/lasers/elaCloud1.swf" comment="Energy leech cloud" />
+  <res name="laser0.swf" path="spacemap/graphics/lasers/laser0.swf" comment="Red thin shoot" />
+  <res name="laser1.swf" path="spacemap/graphics/lasers/laser1.swf" comment="Blue thin shoot" />
+  <res name="laser2.swf" path="spacemap/graphics/lasers/laser2.swf" comment="Green thin shoot" />
+  <res name="laser3.swf" path="spacemap/graphics/lasers/laser3.swf" comment="White thin shoot" />
+  <res name="laser4.swf" path="spacemap/graphics/lasers/laser4.swf" comment="Sab thin shoot" />
+  <res name="laser5.swf" path="spacemap/graphics/lasers/laser5.swf" comment="Rsb thin shoot" />
+  <res name="laser6.swf" path="spacemap/graphics/lasers/laser6.swf" comment="Rsb thin shoot" />
+  <res name="laserFlash0.swf" path="spacemap/graphics/lasers/laserFlash0.swf" comment="Laser flash" />
+  <res name="lordakiumShot.swf" path="spacemap/graphics/lasers/lordakiumShot.swf" comment="Lordakium shoot" />
+  <res name="nettel.swf" path="spacemap/graphics/lasers/nettel.swf" comment="Lordakia shoot" />
+  <res name="protegitShot.swf" path="spacemap/graphics/lasers/protegitShot.swf" comment="Protegit shoot" />
+  <res name="skillLaser0.swf" path="spacemap/graphics/lasers/skillLaser0.swf" comment="Red fat shoot" />
+  <res name="skillLaser1.swf" path="spacemap/graphics/lasers/skillLaser1.swf" comment="Blue fat shoot" />
+  <res name="skillLaser2.swf" path="spacemap/graphics/lasers/skillLaser2.swf" comment="Green fat shoot" />
+  <res name="skillLaser3.swf" path="spacemap/graphics/lasers/skillLaser3.swf" comment="White fat shoot" />
+  <res name="skillLaser4.swf" path="spacemap/graphics/lasers/skillLaser4.swf" comment="Sab fat shoot" />
+  <res name="skillLaser5.swf" path="spacemap/graphics/lasers/skillLaser5.swf" comment="Rsb fat shoot" />
+  <res name="skillLaser6.swf" path="spacemap/graphics/lasers/skillLaser6.swf" comment="Rsb fat shoot" />
+  <!-- start lensflares -->
+  
+  <!-- end lensflares -->
+  <!-- start mapmarkers -->
+  
+  <!-- end mapmarkers -->
+  <!-- start meteors -->
+  
+  <!-- end meteors -->
+  <!-- start mines -->
+  
+  <!-- end mines -->
+  <!-- start minimaps -->
+  
+  <!-- end minimaps -->
+  <!-- start planets -->
+  
+  <!-- end planets -->
+  <!-- start poizones -->
+  
+  <!-- end poizones -->
+  <!-- start portals -->
+  <res name="standardGate.swf" path="spacemap/graphics/portals/standardGate.swf" comment="Jump portal" />
+  <!-- end portals -->
+  <!-- start pyroEffects -->
+  <res name="smartbomb1.swf" path="spacemap/graphics/pyroEffects/smartbomb1.swf" comment="Smb" />
+  <!-- end pyroEffects -->
+  <!-- start robots -->
+  <res name="battleRepairRobot1.swf" path="spacemap/graphics/robots/battleRepairRobot1.swf" comment="Battle repair robot" />
+  <res name="repair_robot1_atlas.swf" path="spacemap/graphics/robots/repairRobot0.swf" comment="Standard repair robot" />
+  <res name="repair_robot2_atlas.swf" path="spacemap/graphics/robots/repairRobot0.swf" comment="Standard repair robot" />
+  <res name="repair_robot3_atlas.swf" path="spacemap/graphics/robots/repairRobot0.swf" comment="Standard repair robot" />
+  <res name="repair_robot4_atlas.swf" path="spacemap/graphics/robots/repairRobot0.swf" comment="Standard repair robot" />
+  <res name="repair_robot5_atlas.swf" path="spacemap/graphics/robots/repairRobot0.swf" comment="Standard repair robot" />
+  <res name="repairRobot1.swf" path="spacemap/graphics/robots/repairRobot1.swf" comment="Skill repair robot" />
+  <!-- end robots -->
+  <!-- start rockets -->
+  
+  <!-- end rockets -->
+  <!-- start shields -->
+  <res name="instaShield.swf" path="spacemap/graphics/shields/instaShield.swf" comment="Ish" />
+  <!-- end shields -->
+  <!-- start shipGlows -->
+  
+  <!-- end shipGlows -->
+  <!-- start ships -->
+  
+  <!-- end ships -->
+  <!-- start smoke -->
+  
+  <!-- end smoke -->
+  <!-- start splashscreens -->
+  
+  <!-- end splashscreens -->
+  <!-- start stations -->
+  <res name="blueStation.swf" path="spacemap/graphics/stations/blueStation.swf" comment="EIC Station" />
+  <res name="greenStation.swf" path="spacemap/graphics/stations/greenStation.swf" comment="VRU Station" />
+  <res name="redStation.swf" path="spacemap/graphics/stations/redStation.swf" comment="MMO Station" />
+  <!-- end stations -->
+  <!-- start ui -->
+  <res name="spacemap.swf" path="spacemap/graphics/ui/spacemap.swf" comment="Solar system" />
+  <!-- end ui -->
+</spacemap>
